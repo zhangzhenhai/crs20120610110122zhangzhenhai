@@ -1,0 +1,1 @@
+include ':app', 'calcu', 'Jave4Phone', 'Project3', 'project4', 'project5', 'project7', 'project9', 'socket'
